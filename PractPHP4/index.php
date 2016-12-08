@@ -1,7 +1,7 @@
 ﻿<!DOCTYPE HTML>
 <Html>
     <Head>
-    <Title>Шифры</Title>
+    <Title>Практика</Title>
         <Meta charset="utf-8">
         <Link rel="stylesheet" type="text/css" href="CSS/G_Style.css">
     </Head>
